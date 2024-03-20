@@ -4,6 +4,7 @@ import unittest
 
 
 REQUIRES = [
+    'bleach>=6.1.0',
     'bleach[css]>=6.1.0',
     'requests>=2.2.1',
     'lxml>=3.2.5',
