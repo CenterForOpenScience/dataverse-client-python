@@ -8,7 +8,7 @@ REQUIRES = [
     'bleach[css]>=6.1.0',
     'requests>=2.2.1',
     'lxml>=3.2.5',
-    'urllib3>=2.2.1'
+    'urllib3>=1.26.18'
 ]
 
 TESTS_REQUIRE = [
